@@ -1,0 +1,24 @@
+Comandos de manipulação e gerenciamento no terminal:
+
+cd - comando usado para navegar entre diretorios
+cd.. - volta a pasta em 1 nivel
+cd / - leva para a base do diretorio C
+dir - lista de diretorios em uma pasta 
+cls - comando para limpar a "tela"
+mkdir - criar uma pasta em um diretorio
+del - limpa os arquivos de uma pasta
+rmdir - exclui uma pasta
+echo - printa no terminal (comando de saida)
+> - ridirecionador de fluxo (pode ser usado para criar um arquivo
+
+Comandos importante no Git:
+
+Git clone "diretório" : clona um arquivo através do link do diretório 
+Git init : usado para iniciar repositório com git
+Git add : dar início a versionamento e mover arquivos
+Git commit : Comando para commitar  
+Git status : para visualizar status de arquivos (untracked, staged e etc.)
+Mv: mover arquivos -> mv (nome arquivo) ./(pasta que deseja mover)/
+Git config –list: setar configurações do git
+Git config –global –unset user.email: resetar configurações de email no git
+Git config –global –unset user.nickname: resetar nickname no git
